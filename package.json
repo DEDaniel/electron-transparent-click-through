@@ -1,0 +1,15 @@
+{
+  "name": "electron-transparent-click-through",
+  "productName": "electron-transparent-click-through",
+  "description": "Electron Transparent Application With Click Through",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "6.0.2"
+  }
+}
